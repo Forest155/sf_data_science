@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное копьютером чилос за минимальное число попыток.
 
-:arrow_up[к оглавление](https://github.com/Forest155/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавление](https://github.com/Forest155/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем ?
 Нужно написать программу, которая угадывает чилос за минимальное число попыток
@@ -29,4 +29,4 @@
 ### Краткая информация о данных
 -----
 
-:arrow_up[к оглавлению](https://github.com/Forest155/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Forest155/sf_data_science/tree/main/project_0/README.md#Оглавление)
